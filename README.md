@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/viQcinese/tweeter_layout/master/icons/twitter.svg" width="30px" height="30px"> Twitter Layout Clone
-A simple non responsive Twitter layout clone
+A simple non responsive Twitter layout clone <br>
 Built with HTML and CSS <br> <br>
 <img src="https://github.com/viQcinese/documentation/blob/master/twitter_layout/twitter_layout.gif?raw=true" width="50%" height="50%"/>
 
